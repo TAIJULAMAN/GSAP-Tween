@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  gap: 20px;
+}
+
+.green {
+  background: linear-gradient(90deg, #00c9ff 0%, #92fe9d 100%);
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+}
+.purple {
+  background: linear-gradient(90deg, #fc466b 0%, #3f5efb 100%);
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+}
+.blue {
+  background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+}
