@@ -1,6 +1,6 @@
-**GSAP allows you to effortlessly animate anything JS can touch. Delivering silky-smooth performance and unmatched support so you can focus on the fun stuff.**
-
-- **Tween**
+**GSAP**
+*GSAP allows you to effortlessly animate anything JS can touch. Delivering silky-smooth performance and unmatched support so you can focus on the fun stuff.*
+**Tween**
     
     ### **What's a Tween?**
     
